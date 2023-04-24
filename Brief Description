@@ -1,0 +1,7 @@
+Corporate Tree C, Dynamic Programming and Data Structures
+
+• Built a CLI application that receives a hierarchy of employees designed as a tree data structure, in which every
+employee has a name, a list of subalterns and a manager. The program performs different actions on the hierarchy
+based on the given input such as hiring, firing, promoting, moving an employee or a team, finding the employees
+corresponding to a requested level or manager.
+• Utilized data structures and dynamic allocation.
